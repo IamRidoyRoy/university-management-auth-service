@@ -1,0 +1,15 @@
+{
+  "name": "university-management-auth-service",
+  "version": "1.0.0",
+  "description": "This is a university management system to manage faculty, Staff, Students and admin\"",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ridoy",
+    "roy"
+  ],
+  "author": "Ridoy Roy",
+  "license": "ISC"
+}
