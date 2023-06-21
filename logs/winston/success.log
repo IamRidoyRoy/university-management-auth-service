@@ -1,2 +1,16 @@
 {"level":"info","message":"Database is connected Successfully","service":"user-service"}
 {"level":"info","message":"Application listening on port 5000","service":"user-service"}
+{"level":"info","message":"Database is connected Successfully","service":"user-service"}
+{"level":"info","message":"Application listening on port 5000","service":"user-service"}
+{"level":"info","message":"Database is connected Successfully","service":"user-service"}
+{"level":"info","message":"Application listening on port 5000","service":"user-service"}
+{"level":"info","message":"Database is connected Successfully","service":"user-service"}
+{"level":"info","message":"Application listening on port 5000","service":"user-service"}
+2023-06-21T02:17:23.514Z [right meow!] info: Database is connected Successfully
+2023-06-21T02:17:23.548Z [right meow!] info: Application listening on port 5000
+2023-06-21T02:21:41.023Z [right meow!] info: Database is connected Successfully
+2023-06-21T02:21:41.102Z [right meow!] info: Application listening on port 5000
+2023-06-21T02:23:15.919Z [right meow!] info: Database is connected Successfully
+2023-06-21T02:23:15.932Z [right meow!] info: Application listening on port 5000
+Wed Jun 21 2023 8:24:41 [right meow!] info: Database is connected Successfully
+Wed Jun 21 2023 8:24:41 [right meow!] info: Application listening on port 5000
