@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\P Hero Next Level\\Mission-3 NoSql Brainac\\university-management-auth-service\\logs\\winston\\success\\.e8e98dfd9572151c241d8e4837e400dba9dc00e4-audit.json",
+    "files": [
+        {
+            "date": 1687366542786,
+            "name": "H:\\P Hero Next Level\\Mission-3 NoSql Brainac\\university-management-auth-service\\logs\\winston\\success\\phu-21-06-2023-22-success.log",
+            "hash": "c577c9eea621874ff1d87576a313710c4a3adffffadb35d52d3f02eb5db6c2ee"
+        }
+    ],
+    "hashType": "sha256"
+}
